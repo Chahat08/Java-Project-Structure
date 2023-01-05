@@ -1,4 +1,3 @@
-package first;
 import com.example.mypackage.MyClass;
 
 public class MainApplication{
