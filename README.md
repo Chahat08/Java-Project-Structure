@@ -8,3 +8,4 @@ To help understand:
 - Creation and management of packages
 - Import and use of packages
 - Basic object oriented programming in java
+- Writing windows batch scripts
