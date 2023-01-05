@@ -2,9 +2,9 @@
 
 set TARGET_DIR=C:\dev\ck\java\package-structure\target
 set MAIN_APP=C:\dev\ck\java\package-structure\src\MainApplication.java
-set MYPACKAGE_DIR=C:\dev\ck\java\package-structure\src\com\example\mypackage
+set HELLO_PACKAGE_DIR=C:\dev\ck\java\package-structure\src\com\example\hello
 
-javac %MYPACKAGE_DIR%\*.java -d %TARGET_DIR%
+javac %HELLO_PACKAGE_DIR%\*.java -d %TARGET_DIR%
 javac -cp ".;%TARGET_DIR%" %MAIN_APP% -d %TARGET_DIR%
 
 ECHO Compiled source program

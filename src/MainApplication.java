@@ -1,4 +1,4 @@
-import com.example.mypackage.MyClass;
+import com.example.hello.MyClass;
 
 public class MainApplication{
 
