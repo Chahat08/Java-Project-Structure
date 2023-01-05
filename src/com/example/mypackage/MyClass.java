@@ -2,12 +2,10 @@ package com.example.mypackage;
 
 public class MyClass{
 
-    public MyClass(){}
-
-    public void helloWorld(){
+    public static void helloWorld(){
         System.out.println("Hello, World!");
     }
-    public void helloJava(){
+    public static void helloJava(){
         System.out.println("Hello, Java");
     }
 
