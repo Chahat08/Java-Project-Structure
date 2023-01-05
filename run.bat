@@ -1,0 +1,1 @@
+java %TARGET_FILE%
