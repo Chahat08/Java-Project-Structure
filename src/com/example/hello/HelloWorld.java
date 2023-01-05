@@ -4,7 +4,7 @@ public class HelloWorld{
 
     public HelloWorld(){}
 
-    public void printHelloWorld(){
+    public void sayHelloWorld(){
         System.out.println("Hello, World!");
     }
 
